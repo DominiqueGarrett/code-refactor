@@ -39,10 +39,6 @@ THEN I find a concise, descriptive title
 
 <img width="629" alt="Screen Shot 2022-11-22 at 6 44 22 AM" src="https://user-images.githubusercontent.com/114618684/203317820-ef61ce58-ffc6-4261-8289-e4c18efe3162.png">
 
-## Credits
-
-Tutorials:
-
 
 ## License
 
